@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="padding: 7px 10px; background: rgba(227,227,227,0.73); color: black; border-radius: 10px"> Savindu</span> &nbsp;
+<h1 align="center">Hi 👋, I'm <span style="color : #ffffff"> Savindu</span> &nbsp;
     Uthsara Panagoda. </h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
