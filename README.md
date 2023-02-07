@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Savindu Uthsara Panagoda</h1>
+<h1 align="center">Hi 👋, I'm <span style="padding 10px 50x; background-color :white; border-radius : 30px"> Savindu </span> Uthsara Panagoda. </h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindu29&label=Profile%20views&color=0e75b6&style=flat" alt="savindu29" /> </p>
