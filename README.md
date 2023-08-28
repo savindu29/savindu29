@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savindu Panagoda</h1>
-<h3 align="center">A passionate Back-end and Ai ML developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack and AI/ML developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **spring boot , nestJs , AWS , Machine Learning**
 
