@@ -11,7 +11,7 @@
 
 ## 📬 Let's Connect
 - Email: [savindu329@gmail.com](mailto:savindu329@gmail.com)
-- LinkedIn: [Savindu Panagoda](https://www.linkedin.com/in/savindu-panagoda/)
+- LinkedIn: [Savindu Panagoda](https://www.linkedin.com/in/savindu-panagoda-943a3b222/)
 
 Feel free to reach out, whether it's about collaboration, tech discussions, or just to say hello!
 
