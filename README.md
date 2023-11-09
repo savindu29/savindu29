@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Savindu Panagoda</h1>
-<h3 align="center">A passionate Full-Stack and AI/ML developer from Sri Lanka</h3>
+<h1 align="center">Hello there! 👋</h1>
+<p align="center">I'm Savindu Panagoda, a passionate Full-Stack Developer and AI/ML enthusiast from the beautiful island of Sri Lanka.</p>
 
-- 🌱 I’m currently working on **spring boot , nestJs , AWS , Machine Learning**
+## 🔧 Technologies & Tools
+- Full Stack Development with **Spring Boot**, **React**, and **SQL**
+- Cloud Solutions and Deployment on **AWS**
+- Continuous Learning and Exploration in **Data Science** and **Machine Learning**
 
-- 📫 How to reach me **savindu329@gmail.com**
+## 🌱 Currently Learning
+- Advancing skills in **Data Science** and **Machine Learning**
+
+## 📬 Let's Connect
+- Email: [savindu329@gmail.com](mailto:savindu329@gmail.com)
+- LinkedIn: [Savindu Panagoda](https://www.linkedin.com/in/savindu-panagoda/)
+
+Feel free to reach out, whether it's about collaboration, tech discussions, or just to say hello!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
