@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Savidnu Panagoda</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Sri Lanka</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-url" alt="Savidnu Panagoda" width="200" height="200"/>
-</p>
+</p> -->
 <p align="center">
   <a href="https://medium.com/@savindu" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
