@@ -18,3 +18,11 @@
   <img src="https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=azure-functions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
+🌱 I’m currently mastering Spring and advancing my skills in Data Science and Machine Learning.
+
+📝 I regularly write articles on Medium.
+
+💬 Ask me about Spring, React.
+
+📫 How to reach me: savindu329@gmail.com.
+
