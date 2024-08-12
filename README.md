@@ -15,6 +15,7 @@
 ###
 
 <div align="left">
+  <p>I'm a Software Engineer from Sri Lanka, currently exploring and working with Java, Spring Boot, microservices, AWS, Docker, Kubernetes, and CI/CD. I'm also diving into data analytics and continuously learning and growing in these areas.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -50,7 +51,3 @@
 ###
 
 <br clear="both">
-
-
-
-###
