@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://nationalcoffee.blog/wp-content/uploads/2016/09/jerrycoffee2.gif?w=595&h=446"  />
+<img align="right" height="150" src="https://media.tenor.com/N_b6y7Ym0b0AAAAM/java-schmiby.gif"  />
 
 ###
 
